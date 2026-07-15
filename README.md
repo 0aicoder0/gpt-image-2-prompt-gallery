@@ -1,5 +1,9 @@
 # GPT Image 2 Prompt Gallery
 
+## About
+
+A curated collection of GPT Image 2 prompts with example images across art, design, photography, research, and more.
+
 <a id="gallery-index"></a>
 
 ## 🎨 Prompt Showcase
