@@ -2,7 +2,7 @@
 
 ## About
 
-A curated collection of GPT Image 2 prompts with example images across art, design, photography, research, and more.
+A growing collection of GPT Image 2 prompts with example images across art, design, photography, research, and more.
 
 <a id="gallery-index"></a>
 
